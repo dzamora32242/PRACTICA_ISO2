@@ -1,4 +1,5 @@
 * CU002 Y CU001 -> Primer paso 002, el correo lo debe mandar desde 001 y 002 parte desde que tiene el correo asi solo tiene que buscar el usuario y cambiar estado
 * REVISAR 002
 * 003 DNI NO SE PUEDE CAMBIAR NO PEDIR
+* exception paso 3 en 003 que verifique q el formato es correcto
 
