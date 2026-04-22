@@ -86,6 +86,8 @@
 <XPD:ATTR name="Height" type="integer">89</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">El actor bibliotecario representa a una persona que es responsable del registro de libros y ejemplares,
  del registro de socios, de la busqueda de ejemplares, del registro de prestamos y de la devolución de los mismos
+
+TEST DE CAMBIOS
 </XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
@@ -29276,8 +29278,8 @@ El atributo libre se setteará por default a false en el constructor
 <XPD:REF name="Participant">97YHE7J1A0ulTnDtOkLq7AAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">4Jn4IGV3rkeevj8aM+5FFgAA</XPD:REF>
-<XPD:REF name="Views[1]">EN3ttI4I9EGC95YMHZ266QAA</XPD:REF>
-<XPD:REF name="Views[2]">LA5w4yeTfkazCubqN6TEcgAA</XPD:REF>
+<XPD:REF name="Views[1]">LA5w4yeTfkazCubqN6TEcgAA</XPD:REF>
+<XPD:REF name="Views[2]">EN3ttI4I9EGC95YMHZ266QAA</XPD:REF>
 <XPD:REF name="Views[3]">nuebwmAP8062XS6i4AqGigAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Connections[1]" type="UMLAssociationEnd" guid="lJ72cvPm5kiaWaoIkrN9HQAA">
@@ -29285,8 +29287,8 @@ El atributo libre se setteará por default a false en el constructor
 <XPD:REF name="Participant">1JFBvDi3nEC6tg7hGxA77QAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">sm9pZdxfJ0eP/0ZFyTcauAAA</XPD:REF>
-<XPD:REF name="Views[1]">t5lxBz8B9kmmwnRW9i6/wwAA</XPD:REF>
-<XPD:REF name="Views[2]">w/edstzW3kennO25ycisJgAA</XPD:REF>
+<XPD:REF name="Views[1]">w/edstzW3kennO25ycisJgAA</XPD:REF>
+<XPD:REF name="Views[2]">t5lxBz8B9kmmwnRW9i6/wwAA</XPD:REF>
 <XPD:REF name="Views[3]">5RFdq3LYtE66fzbNgOhoxwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
@@ -29338,8 +29340,8 @@ El atributo libre se setteará por default a false en el constructor
 <XPD:REF name="Participant">KlDAJ6WOE0y/cwVxW/Is5wAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">o2Wy9Zru80SaAWRdUuqsUgAA</XPD:REF>
-<XPD:REF name="Views[1]">m6pMNPA9GEqQEHl0SDBGlAAA</XPD:REF>
-<XPD:REF name="Views[2]">/Huj/gmTdUyWW7S8JuzM0gAA</XPD:REF>
+<XPD:REF name="Views[1]">/Huj/gmTdUyWW7S8JuzM0gAA</XPD:REF>
+<XPD:REF name="Views[2]">m6pMNPA9GEqQEHl0SDBGlAAA</XPD:REF>
 <XPD:REF name="Views[3]">pPEH7WNHDkOLLVpNPYdLAgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Connections[1]" type="UMLAssociationEnd" guid="ckI0fOvj6UONZS3g5WmbmAAA">
@@ -29347,8 +29349,8 @@ El atributo libre se setteará por default a false en el constructor
 <XPD:REF name="Participant">97YHE7J1A0ulTnDtOkLq7AAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">+NbuNE0tHUaw/CLHuYiWYQAA</XPD:REF>
-<XPD:REF name="Views[1]">DHUx9EHJFEyXYijfpuHE7wAA</XPD:REF>
-<XPD:REF name="Views[2]">eIpv5IRXV0Olni7kcgXafAAA</XPD:REF>
+<XPD:REF name="Views[1]">eIpv5IRXV0Olni7kcgXafAAA</XPD:REF>
+<XPD:REF name="Views[2]">DHUx9EHJFEyXYijfpuHE7wAA</XPD:REF>
 <XPD:REF name="Views[3]">79HT96JuI0C79ekbjS16DwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>

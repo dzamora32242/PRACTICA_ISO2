@@ -47,7 +47,7 @@
 <XPD:REF name="DiagramOwner">+6Z1YMlGXEqwQxwuIN3/XQAA</XPD:REF>
 <XPD:OBJ name="DiagramView" type="UMLUseCaseDiagramView" guid="qbHI9Hrq+kK0Q/ZqOYuc5wAA">
 <XPD:REF name="Diagram">86NuVM8h+U++NN+7qsZG6gAA</XPD:REF>
-<XPD:ATTR name="#OwnedViews" type="integer">2</XPD:ATTR>
+<XPD:ATTR name="#OwnedViews" type="integer">3</XPD:ATTR>
 <XPD:OBJ name="OwnedViews[0]" type="UMLActorView" guid="r3Nf5Mgs4EyLe5zPXTFp8QAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
@@ -90,9 +90,38 @@
 TEST DE CAMBIOS
 </XPD:ATTR>
 </XPD:OBJ>
+<XPD:OBJ name="OwnedViews[2]" type="UMLActorView" guid="BkodMxyTDkC1Uo/tGPlYEQAA">
+<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
+<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">336</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">72</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">72</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">78</XPD:ATTR>
+<XPD:REF name="Model">/3mZfYMeSEWV/vU94IApIAAA</XPD:REF>
+<XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="DfAuP11zXkK95h4AiFYQuAAA">
+<XPD:OBJ name="NameLabel" type="LabelView" guid="/BTbBooGpkK8Txgd+EMWKQAA">
+<XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">estudiante</XPD:ATTR>
+</XPD:OBJ>
+<XPD:OBJ name="StereotypeLabel" type="LabelView" guid="ia0CpPoao0WARDeTDom+OwAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+</XPD:OBJ>
+<XPD:OBJ name="PropertyLabel" type="LabelView" guid="xrgXKq0wFUGyJYRgLj8G7wAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:ATTR name="#OwnedElements" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="AttributeCompartment" type="UMLAttributeCompartmentView" guid="GWMhq89LMkWiBZTO4cOAGgAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:REF name="Model">/3mZfYMeSEWV/vU94IApIAAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="OperationCompartment" type="UMLOperationCompartmentView" guid="Oni5d3TSMEO3UcTe0EisvQAA">
+<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
+<XPD:REF name="Model">/3mZfYMeSEWV/vU94IApIAAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:OBJ>
+<XPD:ATTR name="#OwnedElements" type="integer">2</XPD:ATTR>
 <XPD:OBJ name="OwnedElements[0]" type="UMLActor" guid="dhdfcLQy402A61zjr8qwIwAA">
 <XPD:ATTR name="Name" type="string">bibliotecario</XPD:ATTR>
 <XPD:REF name="Namespace">+6Z1YMlGXEqwQxwuIN3/XQAA</XPD:REF>
@@ -117,6 +146,14 @@ TEST DE CAMBIOS
 <XPD:REF name="Instances[3]">BiYuz41FIkSTeeAhpvQJ2wAA</XPD:REF>
 <XPD:REF name="Instances[4]">ccvmX2KXfkuqxMApoKURTwAA</XPD:REF>
 <XPD:REF name="Instances[5]">PXfSBekjEkKYsam/atQCawAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedElements[1]" type="UMLActor" guid="/3mZfYMeSEWV/vU94IApIAAA">
+<XPD:ATTR name="Name" type="string">estudiante</XPD:ATTR>
+<XPD:REF name="Namespace">+6Z1YMlGXEqwQxwuIN3/XQAA</XPD:REF>
+<XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
+<XPD:REF name="Views[0]">BkodMxyTDkC1Uo/tGPlYEQAA</XPD:REF>
+<XPD:REF name="Views[1]">GWMhq89LMkWiBZTO4cOAGgAA</XPD:REF>
+<XPD:REF name="Views[2]">Oni5d3TSMEO3UcTe0EisvQAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[2]" type="UMLPackage" guid="9SSGjELg/E6nGGdN79PiLwAA">
