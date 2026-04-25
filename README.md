@@ -11,3 +11,6 @@
 * C.U.005 añadir un atributo en todos los paquetes y en el create que sea disponible y que sea Boolean, para asi al registrarlo si la fecha de lanzamiento es ya que se ponga el disponible en True
 * no se si hay un caso de uso de publicar videojuego, si lo hay, hay que poner que se publique si el atributo booleano  disponible es true, si no hay caso de uso de eso deberiamos de hacerlo eh xd.
 //PARA ZAPA DALE UNA VUELTA A DAR DE BAJA
+* C.U.006 para añadir el IUEntidadFinanciera he tenido que poner en el diagrama de clases de diseño un iu de eso porque no sabia que hacer, eso habra que añadirlo bien en todos los paquetes
+* C.U.007 hablarlo con enrique, no se como hacerlo.
+* añadi el ic dd sistema de descargas hay qu meter los actores externos en los diagramas de paquetes y eso
