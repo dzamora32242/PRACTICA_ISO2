@@ -1,24 +1,146 @@
-* CU002 Y CU001 -> Primer paso 002, el correo lo debe mandar desde 001 y 002 parte desde que tiene el correo asi solo tiene que buscar el usuario y cambiar estado
-* REVISAR 002
-* C.U.003 DNI NO SE PUEDE CAMBIAR NO PEDIR
-* C.U.003 exception paso 3 en 003 que verifique q el formato es correcto
-* C.U.004 hay que añadir en los paquetes una variable booleana que sea confirmacion, para que pueda ser true o false en el diagrama de casos de uso.
-* C.U.004 Hay que añadir a la descripcion de caso de uso 4, en la excepcion que muestre que se ha cancelado la operacion por pantalla.
-* C.U.001, he añadido un id de usuario, hay que añadirlo al diagrama de paquetes, ya que el id se usara mas tarde para guardar en auditorias de compra. Posteriormente ire viendo pero habra que poner que la compra se asocie a un  id de usuario.
-//PARA ZAPA: Preguntar a Luis Enrique sobre el caso de uso de darse de baja.
-* C.U.005, añadir que en la excpecion del paso 3, ademas  verifique que el nombre de la empresa existe y que el nombre del videojuego no este ya en uso, ademas de quitar que el genero compruebe si existe.((Preguntar a luis enrique que hacemos con el genero))
-* C.U.005, añadir en la especificacion e casos de uso, que el sistema pregunte tambien el precio base, la fecha de lanzamiento.\*\*\*NO SE QUE HACER CON VALORACION MEDIA, EN EL DIAGRAMA PONE QUE EN EL CREATE DE VIDEOJUEGO HAY QUE PONER LA VALORACION MEDIA, PERO NO SE MUY BIEN COMO VA SI EL JUEGO NO HA SALIDO TODAVIA, YO LO PONGO Y SI ESO AÑADIMOS UN AUTOESTIMULO QUE CALCULE LA VALORACION MEDIA, YA VEREMOS LADYS.
-* C.U.005 añadir un atributo en todos los paquetes y en el create que sea disponible y que sea Boolean, para asi al registrarlo si la fecha de lanzamiento es ya que se ponga el disponible en True
-* no se si hay un caso de uso de publicar videojuego, si lo hay, hay que poner que se publique si el atributo booleano  disponible es true, si no hay caso de uso de eso deberiamos de hacerlo eh xd.
-//PARA ZAPA DALE UNA VUELTA A DAR DE BAJA
-* C.U.006 para añadir el IUEntidadFinanciera he tenido que poner en el diagrama de clases de diseño un iu de eso porque no sabia que hacer, eso habra que añadirlo bien en todos los paquetes
-* C.U.007 hablarlo con enrique, no se como hacerlo.
-* añadi el ic dd sistema de descargas hay qu meter los actores externos en los diagramas de paquetes y eso
-* el caso de uso de darse e baja el 004 hay que revisarlo entero
-* el C.U.0012, el usuario debe seleccionar el videojuego o asumimos que el sistema lo tiene?
-* C.U.012 revisar entero pq esta mal, rehacer de 0 casi
-* he añadido id a los videojuegos
-* rehacer C.U.013
-* posibilidad de crear paquete de Gestion Reseñas y Gestion Desarrolladoras
-* C.U.014 el id no se pide, lo genera el sistema
+===============================================================================
+
+&#x20;          LISTADO DE TAREAS Y MODIFICACIONES POR CASO DE USO (CU)
+
+===============================================================================
+
+
+
+\[CU.001] - REGISTRO / IDENTIFICACIÓN
+
+&#x20;   - \[ ] Gestión de Correo: El sistema debe enviar el correo desde este CU.
+
+&#x20;   - \[ ] Añadir ID de Usuario: Incorporar el atributo 'id' al diagrama de paquetes.
+
+&#x20;   - \[ ] Trazabilidad: Asegurar que el ID se asocie a compras para auditoría.
+
+
+
+\[CU.002] - VERIFICACIÓN Y CAMBIO DE ESTADO
+
+&#x20;   - \[ ] Flujo de entrada: Inicia cuando ya se tiene el correo (enviado por CU.001).
+
+&#x20;   - \[ ] Funcionalidad: Buscar usuario y cambiar su estado.
+
+&#x20;   - \[ ] REVISIÓN: Revisar el caso de uso por completo.
+
+
+
+\[CU.003] - GESTIÓN DE PERFIL
+
+&#x20;   - \[ ] Restricción de Datos: NO pedir ni permitir cambiar el DNI.
+
+&#x20;   - \[ ] Validación (Paso 3): Añadir excepción para verificar formato correcto.
+
+
+
+\[CU.004] - DARSE DE BAJA
+
+&#x20;   - \[ ] Variable de Confirmación: Añadir booleano 'confirmacion' en los paquetes.
+
+&#x20;   - \[ ] Interfaz de Usuario: Mostrar mensaje de "operación cancelada" por pantalla.
+
+&#x20;   - \[ ] REVISIÓN: Revisar el caso de uso entero.
+
+&#x20;   - \[!] NOTA (ZAPA): Preguntar a Luis Enrique sobre la lógica de este CU.
+
+
+
+\[CU.005] - ALTA DE VIDEOJUEGO
+
+&#x20;   - \[ ] Excepción (Paso 3): 
+
+&#x20;       - Verificar que el nombre de la empresa existe.
+
+&#x20;       - Verificar que el nombre del videojuego no esté duplicado.
+
+&#x20;       - ELIMINAR comprobación de existencia del género.
+
+&#x20;   - \[ ] Especificación: Solicitar 'Precio Base' y 'Fecha de Lanzamiento'.
+
+&#x20;   - \[ ] Atributo Disponibilidad: Añadir booleano 'disponible' en paquetes y Create.
+
+&#x20;       - Lógica: Si 'Fecha de lanzamiento' <= Hoy -> disponible = True.
+
+&#x20;   - \[ ] Atributo Valoración: Añadir 'valoracionMedia' en Create.
+
+&#x20;       - Lógica: Implementar mediante autoestímulo para cálculo posterior.
+
+&#x20;   - \[ ] Añadir ID: Se ha incorporado el ID a la entidad videojuego.
+
+&#x20;   - \[!] NOTA: Consultar a Luis Enrique qué hacer finalmente con el género.
+
+
+
+\[CU.006] - GESTIÓN FINANCIERA
+
+&#x20;   - \[ ] Diseño: Añadir 'IUEntidadFinanciera' en el diagrama de clases de diseño.
+
+&#x20;   - \[ ] Integración: Actualizar la interfaz en todos los paquetes relacionados.
+
+
+
+\[CU.007] - POR DEFINIR
+
+&#x20;   - \[!] BLOQUEO: Hablar con Enrique para definir la funcionalidad.
+
+
+
+\[CU.012] - DESCARGAS
+
+&#x20;   - \[ ] Reestructuración: Rehacer de cero (está mal planteado).
+
+&#x20;   - \[ ] Lógica de Selección: Decidir si el usuario selecciona el juego o si el sistema lo asume.
+
+&#x20;   - \[ ] Actores: Incluir el 'Sistema de Descargas' como actor externo en los diagramas.
+
+
+
+\[CU.013] - POR DEFINIR
+
+&#x20;   - \[ ] Reestructuración: Rehacer el caso de uso por completo.
+
+
+
+\[CU.014] - GENERACIÓN DE ENTIDADES
+
+&#x20;   - \[ ] Automatización: El ID no se pide al usuario, lo genera el sistema automáticamente.
+
+
+
+===============================================================================
+
+&#x20;                   NOTAS GENERALES Y ARQUITECTURA
+
+===============================================================================
+
+
+
+\[ ] PROPUESTA: Crear nuevo CU "Publicar Videojuego".
+
+&#x20;   - Condición: Se activa si el atributo 'disponible' es True.
+
+
+
+\[ ] ORGANIZACIÓN DE PAQUETES:
+
+&#x20;   - Evaluar creación de paquete: "Gestión Reseñas".
+
+&#x20;   - Evaluar creación de paquete: "Gestión Desarrolladoras".
+
+
+
+\[ ] DIAGRAMAS:
+
+&#x20;   - Incluir ID de usuario y videojuego en todos los diagramas de paquetes.
+
+&#x20;   - Incluir IC del Sistema de Descargas y actores externos.
+
+
+
+\[!] TAREAS PENDIENTES DE REVISIÓN (ZAPA):
+
+&#x20;   - Dar una vuelta al concepto de "Dar de baja" antes de cerrar CU.004.
+
+===============================================================================usuario; debe ser generado automáticamente por el sistema.
 
