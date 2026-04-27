@@ -144,3 +144,9 @@
 
 ===============================================================================usuario; debe ser generado automáticamente por el sistema.
 
+
+
+ENLACE JIRA
+
+https://practicaiso2.atlassian.net/?continue=https%3A%2F%2Fpracticaiso2.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10000\&atlOrigin=eyJpIjoiYjYwZTJlOWM3ZWQ3NGMxYWI4NTdmM2IzYzFkMTEzOWYiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9
+
