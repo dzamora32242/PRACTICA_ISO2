@@ -84,7 +84,8 @@
 
 &#x20;   - \[!] BLOQUEO: Hablar con Enrique para definir la funcionalidad.
 
-
+\[CU.010] - PUBLICAR RESEÑA
+&#x20;   - \[ ] Añadir al paquete de reseña el atributo fecha de la reseña
 
 \[CU.012] - DESCARGAS
 
