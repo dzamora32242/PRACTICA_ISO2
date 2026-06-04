@@ -24564,7 +24564,8 @@ paso 7
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[1]" type="UMLSubsystem" guid="Wt4eGT8eZEC/RkTop176lAAA">
 <XPD:ATTR name="Name" type="string">Gestion de Videojuegos</XPD:ATTR>
-<XPD:ATTR name="StereotypeName" type="string">desingSubsystem</XPD:ATTR>
+<XPD:ATTR name="StereotypeProfile" type="string">UMLStandard</XPD:ATTR>
+<XPD:ATTR name="StereotypeName" type="string">implementationSubsystem</XPD:ATTR>
 <XPD:REF name="Namespace">G8o/+O/1nEqGkjBd9B+dwgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">NqV0DW3uhk2paeKfWfyjQgAA</XPD:REF>
@@ -25068,7 +25069,8 @@ paso 7
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[12]" type="UMLSubsystem" guid="ejqYysg7EE+yQRTfyTxQEQAA">
 <XPD:ATTR name="Name" type="string">Gestion de Clientes</XPD:ATTR>
-<XPD:ATTR name="StereotypeName" type="string">desingSubsystem</XPD:ATTR>
+<XPD:ATTR name="StereotypeProfile" type="string">UMLStandard</XPD:ATTR>
+<XPD:ATTR name="StereotypeName" type="string">implementationSubsystem</XPD:ATTR>
 <XPD:REF name="Namespace">G8o/+O/1nEqGkjBd9B+dwgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">h1cRyvL1vkGy3EFKSnU04QAA</XPD:REF>
@@ -25622,7 +25624,8 @@ paso 7
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[19]" type="UMLSubsystem" guid="ofd8w8hG5kGjLtOk9sXAvwAA">
 <XPD:ATTR name="Name" type="string">Gestion de Compras</XPD:ATTR>
-<XPD:ATTR name="StereotypeName" type="string">desingSubsystem</XPD:ATTR>
+<XPD:ATTR name="StereotypeProfile" type="string">UMLStandard</XPD:ATTR>
+<XPD:ATTR name="StereotypeName" type="string">implementationSubsystem</XPD:ATTR>
 <XPD:REF name="Namespace">G8o/+O/1nEqGkjBd9B+dwgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">s6tbHl6yl0uEkXCJbB1eiAAA</XPD:REF>
@@ -25889,7 +25892,8 @@ paso 7
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[27]" type="UMLSubsystem" guid="SFz2CIh42EiFQyE7mGWi5gAA">
 <XPD:ATTR name="Name" type="string">Gestion de Autentificacion</XPD:ATTR>
-<XPD:ATTR name="StereotypeName" type="string">desingSubsystem</XPD:ATTR>
+<XPD:ATTR name="StereotypeProfile" type="string">UMLStandard</XPD:ATTR>
+<XPD:ATTR name="StereotypeName" type="string">implementationSubsystem</XPD:ATTR>
 <XPD:REF name="Namespace">G8o/+O/1nEqGkjBd9B+dwgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">rzpHHaPut0CnZdX4RY4xmgAA</XPD:REF>
@@ -26120,7 +26124,8 @@ paso 7
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[38]" type="UMLSubsystem" guid="c4JpBpGGwk2TIfsrfeNBIAAA">
 <XPD:ATTR name="Name" type="string">Gestion de Desarrolladoras</XPD:ATTR>
-<XPD:ATTR name="StereotypeName" type="string">desingSubsystem</XPD:ATTR>
+<XPD:ATTR name="StereotypeProfile" type="string">UMLStandard</XPD:ATTR>
+<XPD:ATTR name="StereotypeName" type="string">implementationSubsystem</XPD:ATTR>
 <XPD:REF name="Namespace">G8o/+O/1nEqGkjBd9B+dwgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">KZeAGPrGGkK4RueizKHLhwAA</XPD:REF>
@@ -38827,7 +38832,7 @@ descarga.
 <XPD:ATTR name="Text" type="string"> : Usuario</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="406mJt58zkKHzlv0hVn2UgAA">
-<XPD:ATTR name="Text" type="string">&lt;&lt;design&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;entity&gt;&gt;</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="3kfa3DzQN0anJN5uJqi0RQAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -40056,7 +40061,8 @@ uso finaliza.
 <XPD:REF name="ReceivingStimuli[0]">sb3KTtrK/ESW6NEttg/DvwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="ParticipatingInstances[6]" type="UMLObject" guid="/gZw1IfLq0i+kGZ4DJXCzwAA">
-<XPD:ATTR name="StereotypeName" type="string">design</XPD:ATTR>
+<XPD:ATTR name="StereotypeProfile" type="string">UMLStandard</XPD:ATTR>
+<XPD:ATTR name="StereotypeName" type="string">entity</XPD:ATTR>
 <XPD:REF name="Classifier">BzQ4Fwb6wkG1m1QObN8uegAA</XPD:REF>
 <XPD:REF name="CollaborationInstanceSet">Vp2/IdF6/EC5a9MhTyuMKAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">2</XPD:ATTR>
@@ -40096,7 +40102,7 @@ uso finaliza.
 <XPD:ATTR name="Text" type="string"> : Reseña</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="lNeOFpDmj0K8sZZyH1Zy0gAA">
-<XPD:ATTR name="Text" type="string">&lt;&lt;design&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;entity&gt;&gt;</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="/Il/3MnxBk6NTFJ9NAg4mQAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -40144,7 +40150,7 @@ uso finaliza.
 <XPD:ATTR name="Text" type="string"> : Videojuego</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="DpcCmz13yEiXLNthhMAs5AAA">
-<XPD:ATTR name="Text" type="string">&lt;&lt;design&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;entity&gt;&gt;</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="bdIgmzl000Ga+Ol59MbErQAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -40649,7 +40655,8 @@ uso finaliza.
 <XPD:REF name="CollaborationInstanceSet">oU9w3l0Qv0GnP2fY9/GVWwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="ParticipatingInstances[2]" type="UMLObject" guid="VQSb9ukCY0yMo0U2NlYphwAA">
-<XPD:ATTR name="StereotypeName" type="string">design</XPD:ATTR>
+<XPD:ATTR name="StereotypeProfile" type="string">UMLStandard</XPD:ATTR>
+<XPD:ATTR name="StereotypeName" type="string">entity</XPD:ATTR>
 <XPD:REF name="Classifier">kK1KisEmqkqfo7YejgdNXQAA</XPD:REF>
 <XPD:REF name="CollaborationInstanceSet">oU9w3l0Qv0GnP2fY9/GVWwAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">2</XPD:ATTR>
@@ -40690,7 +40697,8 @@ uso finaliza.
 <XPD:REF name="CollaborationInstanceSet">oU9w3l0Qv0GnP2fY9/GVWwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="ParticipatingInstances[6]" type="UMLObject" guid="FM3yvrBVH0CnzqGoxdsF/QAA">
-<XPD:ATTR name="StereotypeName" type="string">design</XPD:ATTR>
+<XPD:ATTR name="StereotypeProfile" type="string">UMLStandard</XPD:ATTR>
+<XPD:ATTR name="StereotypeName" type="string">entity</XPD:ATTR>
 <XPD:REF name="Classifier">/fsLqU0oQUCnIecysMoULgAA</XPD:REF>
 <XPD:REF name="CollaborationInstanceSet">oU9w3l0Qv0GnP2fY9/GVWwAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">2</XPD:ATTR>
@@ -43592,6 +43600,7 @@ se muestra un error por pantalla y se repiten del paso 2 al 11
 <XPD:ATTR name="Name" type="string">Desarrolladora</XPD:ATTR>
 <XPD:ATTR name="StereotypeProfile" type="string">UMLStandard</XPD:ATTR>
 <XPD:ATTR name="StereotypeName" type="string">entity</XPD:ATTR>
+<XPD:ATTR name="IsMultiInstance" type="boolean">True</XPD:ATTR>
 <XPD:REF name="CollaborationInstanceSet">m+hnh5Vps02xAIc+g2FWgQAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">2</XPD:ATTR>
 <XPD:REF name="Views[0]">/NLrkyoV7UCeof1JRtZFmAAA</XPD:REF>
@@ -48057,7 +48066,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:ATTR name="Text" type="string">Gestion de Compras</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="B+AZ9E+d3E+YZeQo1Z+A7gAA">
-<XPD:ATTR name="Text" type="string">&lt;&lt;desingSubsystem&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;implementationSubsystem&gt;&gt;</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="raBwhXZZpUa6QaHTPJzwJQAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -48181,7 +48190,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:ATTR name="Text" type="string">Gestion de Autentificacion</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="yWffs2piI0m4hpiVL69zpwAA">
-<XPD:ATTR name="Text" type="string">&lt;&lt;desingSubsystem&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;implementationSubsystem&gt;&gt;</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="sw5PZAMvfUipCGOt5xQX/AAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -48305,7 +48314,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:ATTR name="Text" type="string">Gestion de Videojuegos</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="tyrhcVKa6kWE1llYvMJhmQAA">
-<XPD:ATTR name="Text" type="string">&lt;&lt;desingSubsystem&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;implementationSubsystem&gt;&gt;</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="ztX+yM7FhkCECN/KV2pUCAAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -48468,7 +48477,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:OBJ name="OwnedViews[17]" type="UMLSubsystemView" guid="dp3p7OKLK0eUcXlKGs8tEgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">574</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">572</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">466</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">553</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">209</XPD:ATTR>
@@ -48479,7 +48488,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:ATTR name="Text" type="string">Gestion de Clientes</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="BcM8Wo2+9kOizcqkpFj5UQAA">
-<XPD:ATTR name="Text" type="string">&lt;&lt;desingSubsystem&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;implementationSubsystem&gt;&gt;</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="AGWjvIM1T0qWtq4dvjXrkgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -48603,7 +48612,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:ATTR name="Text" type="string">Gestion de Desarrolladoras</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="K66EfovrtEqbiUqtRROqTwAA">
-<XPD:ATTR name="Text" type="string">&lt;&lt;desingSubsystem&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;implementationSubsystem&gt;&gt;</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="M4Omnsciik+3BiK5TBV58QAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>

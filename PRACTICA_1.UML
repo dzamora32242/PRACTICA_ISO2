@@ -24564,7 +24564,8 @@ paso 7
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[1]" type="UMLSubsystem" guid="Wt4eGT8eZEC/RkTop176lAAA">
 <XPD:ATTR name="Name" type="string">Gestion de Videojuegos</XPD:ATTR>
-<XPD:ATTR name="StereotypeName" type="string">desingSubsystem</XPD:ATTR>
+<XPD:ATTR name="StereotypeProfile" type="string">UMLStandard</XPD:ATTR>
+<XPD:ATTR name="StereotypeName" type="string">implementationSubsystem</XPD:ATTR>
 <XPD:REF name="Namespace">G8o/+O/1nEqGkjBd9B+dwgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">NqV0DW3uhk2paeKfWfyjQgAA</XPD:REF>
@@ -25068,7 +25069,8 @@ paso 7
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[12]" type="UMLSubsystem" guid="ejqYysg7EE+yQRTfyTxQEQAA">
 <XPD:ATTR name="Name" type="string">Gestion de Clientes</XPD:ATTR>
-<XPD:ATTR name="StereotypeName" type="string">desingSubsystem</XPD:ATTR>
+<XPD:ATTR name="StereotypeProfile" type="string">UMLStandard</XPD:ATTR>
+<XPD:ATTR name="StereotypeName" type="string">implementationSubsystem</XPD:ATTR>
 <XPD:REF name="Namespace">G8o/+O/1nEqGkjBd9B+dwgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">h1cRyvL1vkGy3EFKSnU04QAA</XPD:REF>
@@ -25622,7 +25624,8 @@ paso 7
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[19]" type="UMLSubsystem" guid="ofd8w8hG5kGjLtOk9sXAvwAA">
 <XPD:ATTR name="Name" type="string">Gestion de Compras</XPD:ATTR>
-<XPD:ATTR name="StereotypeName" type="string">desingSubsystem</XPD:ATTR>
+<XPD:ATTR name="StereotypeProfile" type="string">UMLStandard</XPD:ATTR>
+<XPD:ATTR name="StereotypeName" type="string">implementationSubsystem</XPD:ATTR>
 <XPD:REF name="Namespace">G8o/+O/1nEqGkjBd9B+dwgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">s6tbHl6yl0uEkXCJbB1eiAAA</XPD:REF>
@@ -25889,7 +25892,8 @@ paso 7
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[27]" type="UMLSubsystem" guid="SFz2CIh42EiFQyE7mGWi5gAA">
 <XPD:ATTR name="Name" type="string">Gestion de Autentificacion</XPD:ATTR>
-<XPD:ATTR name="StereotypeName" type="string">desingSubsystem</XPD:ATTR>
+<XPD:ATTR name="StereotypeProfile" type="string">UMLStandard</XPD:ATTR>
+<XPD:ATTR name="StereotypeName" type="string">implementationSubsystem</XPD:ATTR>
 <XPD:REF name="Namespace">G8o/+O/1nEqGkjBd9B+dwgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">rzpHHaPut0CnZdX4RY4xmgAA</XPD:REF>
@@ -26120,7 +26124,8 @@ paso 7
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[38]" type="UMLSubsystem" guid="c4JpBpGGwk2TIfsrfeNBIAAA">
 <XPD:ATTR name="Name" type="string">Gestion de Desarrolladoras</XPD:ATTR>
-<XPD:ATTR name="StereotypeName" type="string">desingSubsystem</XPD:ATTR>
+<XPD:ATTR name="StereotypeProfile" type="string">UMLStandard</XPD:ATTR>
+<XPD:ATTR name="StereotypeName" type="string">implementationSubsystem</XPD:ATTR>
 <XPD:REF name="Namespace">G8o/+O/1nEqGkjBd9B+dwgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">KZeAGPrGGkK4RueizKHLhwAA</XPD:REF>
@@ -48061,7 +48066,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:ATTR name="Text" type="string">Gestion de Compras</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="B+AZ9E+d3E+YZeQo1Z+A7gAA">
-<XPD:ATTR name="Text" type="string">&lt;&lt;desingSubsystem&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;implementationSubsystem&gt;&gt;</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="raBwhXZZpUa6QaHTPJzwJQAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -48185,7 +48190,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:ATTR name="Text" type="string">Gestion de Autentificacion</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="yWffs2piI0m4hpiVL69zpwAA">
-<XPD:ATTR name="Text" type="string">&lt;&lt;desingSubsystem&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;implementationSubsystem&gt;&gt;</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="sw5PZAMvfUipCGOt5xQX/AAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -48309,7 +48314,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:ATTR name="Text" type="string">Gestion de Videojuegos</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="tyrhcVKa6kWE1llYvMJhmQAA">
-<XPD:ATTR name="Text" type="string">&lt;&lt;desingSubsystem&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;implementationSubsystem&gt;&gt;</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="ztX+yM7FhkCECN/KV2pUCAAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -48472,7 +48477,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:OBJ name="OwnedViews[17]" type="UMLSubsystemView" guid="dp3p7OKLK0eUcXlKGs8tEgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">574</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">572</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">466</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">553</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">209</XPD:ATTR>
@@ -48483,7 +48488,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:ATTR name="Text" type="string">Gestion de Clientes</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="BcM8Wo2+9kOizcqkpFj5UQAA">
-<XPD:ATTR name="Text" type="string">&lt;&lt;desingSubsystem&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;implementationSubsystem&gt;&gt;</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="AGWjvIM1T0qWtq4dvjXrkgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -48607,7 +48612,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:ATTR name="Text" type="string">Gestion de Desarrolladoras</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="K66EfovrtEqbiUqtRROqTwAA">
-<XPD:ATTR name="Text" type="string">&lt;&lt;desingSubsystem&gt;&gt;</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">&lt;&lt;implementationSubsystem&gt;&gt;</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="PropertyLabel" type="LabelView" guid="M4Omnsciik+3BiK5TBV58QAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -50548,13 +50553,11 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:ATTR name="Name" type="string">IUCompras.java</XPD:ATTR>
 <XPD:ATTR name="StereotypeName" type="string">file</XPD:ATTR>
 <XPD:REF name="Namespace">uwEVc5hB+U6udZ8/WvOlOQAA</XPD:REF>
-<XPD:ATTR name="#Views" type="integer">6</XPD:ATTR>
+<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">uzsE9WDwnk+vWBb/JAO/4AAA</XPD:REF>
 <XPD:REF name="Views[1]">oNL11Wb4Ska/6PCozA6o5AAA</XPD:REF>
 <XPD:REF name="Views[2]">nW9ZxRGbI0im9YAqb8hhMwAA</XPD:REF>
 <XPD:REF name="Views[3]">RZ7g6EsnOU6S4S8bAj/FLAAA</XPD:REF>
-<XPD:REF name="Views[4]">J+yDw++7cEm85SOThHqqeAAA</XPD:REF>
-<XPD:REF name="Views[5]">7TAL1T67VUCjjQybozh9/gAA</XPD:REF>
 <XPD:ATTR name="#SupplierDependencies" type="integer">3</XPD:ATTR>
 <XPD:REF name="SupplierDependencies[0]">x3p7FvHblEq6Bowiaf1rGwAA</XPD:REF>
 <XPD:REF name="SupplierDependencies[1]">WWh6OyJmP0y7IBddbvTyaQAA</XPD:REF>
@@ -50613,13 +50616,11 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:ATTR name="Name" type="string">IUAutenticacion.java</XPD:ATTR>
 <XPD:ATTR name="StereotypeName" type="string">file</XPD:ATTR>
 <XPD:REF name="Namespace">uwEVc5hB+U6udZ8/WvOlOQAA</XPD:REF>
-<XPD:ATTR name="#Views" type="integer">6</XPD:ATTR>
+<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">uVwvdgVM302KGAVJENzLsAAA</XPD:REF>
 <XPD:REF name="Views[1]">WYf8TsMxE02oz6ogiAouXgAA</XPD:REF>
 <XPD:REF name="Views[2]">gNQKulja80iTSEsE6ionVAAA</XPD:REF>
 <XPD:REF name="Views[3]">mSvcKIjIGkOTUbhtwdI1hQAA</XPD:REF>
-<XPD:REF name="Views[4]">mUWWSf3lak+twZn0LZqfcgAA</XPD:REF>
-<XPD:REF name="Views[5]">XJbiFnWZLkKY9gcrrKrT4QAA</XPD:REF>
 <XPD:ATTR name="#SupplierDependencies" type="integer">3</XPD:ATTR>
 <XPD:REF name="SupplierDependencies[0]">bm+Vel6A+0Wm9AKQj6j7fwAA</XPD:REF>
 <XPD:REF name="SupplierDependencies[1]">9P/QJYUimUSxZyIBjorDGwAA</XPD:REF>
@@ -50759,13 +50760,11 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:ATTR name="Name" type="string">IUVideojuegos.java</XPD:ATTR>
 <XPD:ATTR name="StereotypeName" type="string">file</XPD:ATTR>
 <XPD:REF name="Namespace">uwEVc5hB+U6udZ8/WvOlOQAA</XPD:REF>
-<XPD:ATTR name="#Views" type="integer">6</XPD:ATTR>
+<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">SUoIxlbm8U+4X2RG+sJUTQAA</XPD:REF>
 <XPD:REF name="Views[1]">Si5eu/NECkukaciqIiUABgAA</XPD:REF>
 <XPD:REF name="Views[2]">cqs31o6R4Eab9+cw43phfwAA</XPD:REF>
 <XPD:REF name="Views[3]">ZCUTOU2lfEuH9iBV8gFqZwAA</XPD:REF>
-<XPD:REF name="Views[4]">mBmLRm4NHkihTB1DnQZeowAA</XPD:REF>
-<XPD:REF name="Views[5]">1+86fq0vSEq1u2zqg4P6xgAA</XPD:REF>
 <XPD:ATTR name="#SupplierDependencies" type="integer">4</XPD:ATTR>
 <XPD:REF name="SupplierDependencies[0]">XqgYls9G+EmOS3fg0xCmhQAA</XPD:REF>
 <XPD:REF name="SupplierDependencies[1]">UEGWuesuhkKWdsS4FW9i3AAA</XPD:REF>
@@ -50826,13 +50825,11 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:ATTR name="Name" type="string">IUClientes.java</XPD:ATTR>
 <XPD:ATTR name="StereotypeName" type="string">file</XPD:ATTR>
 <XPD:REF name="Namespace">uwEVc5hB+U6udZ8/WvOlOQAA</XPD:REF>
-<XPD:ATTR name="#Views" type="integer">6</XPD:ATTR>
+<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">PHGnzkQTwUWoMWyHMkdvngAA</XPD:REF>
 <XPD:REF name="Views[1]">X8GnMZoxB0ynjtAIYulL3AAA</XPD:REF>
 <XPD:REF name="Views[2]">mwjG2eHMOkuv66nepDAZ6wAA</XPD:REF>
 <XPD:REF name="Views[3]">7fIQXclpsUeYRj5QwHgz7AAA</XPD:REF>
-<XPD:REF name="Views[4]">i+caqfhgPUe0lQXALgTwUgAA</XPD:REF>
-<XPD:REF name="Views[5]">FS+aV3qMD0G57MJharM3bgAA</XPD:REF>
 <XPD:ATTR name="#SupplierDependencies" type="integer">3</XPD:ATTR>
 <XPD:REF name="SupplierDependencies[0]">uQDtkrY4uE6+/NxYu7QvrAAA</XPD:REF>
 <XPD:REF name="SupplierDependencies[1]">qRh5PNYXREWrzLqezjB7tAAA</XPD:REF>
@@ -50891,13 +50888,11 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:ATTR name="Name" type="string">IUDesarrolladora.java</XPD:ATTR>
 <XPD:ATTR name="StereotypeName" type="string">file</XPD:ATTR>
 <XPD:REF name="Namespace">uwEVc5hB+U6udZ8/WvOlOQAA</XPD:REF>
-<XPD:ATTR name="#Views" type="integer">6</XPD:ATTR>
+<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">pJviflK5oEqrzggmo8O1KwAA</XPD:REF>
 <XPD:REF name="Views[1]">psI20eGskkyCUMVyagq91wAA</XPD:REF>
 <XPD:REF name="Views[2]">I36A3nyjqESs6NYyLEBtBgAA</XPD:REF>
 <XPD:REF name="Views[3]">YFgBnGINjEiCyEB/T0UyUwAA</XPD:REF>
-<XPD:REF name="Views[4]">hTS8KWiLFE+hkQtJz63FRQAA</XPD:REF>
-<XPD:REF name="Views[5]">5eGHOHfF5UadJtf5hhgImwAA</XPD:REF>
 <XPD:ATTR name="#SupplierDependencies" type="integer">3</XPD:ATTR>
 <XPD:REF name="SupplierDependencies[0]">XtBRPt+yhEyJwaHb64XHqwAA</XPD:REF>
 <XPD:REF name="SupplierDependencies[1]">c0rtWEHONkCWCH0TW0Vo6QAA</XPD:REF>
@@ -50915,7 +50910,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="DiagramOwner">OyP3nsN4JEeSlEgE6FPmhwAA</XPD:REF>
 <XPD:OBJ name="DiagramView" type="UMLDeploymentDiagramView" guid="DrL0ObAlxEqn6oGQH4+CcAAA">
 <XPD:REF name="Diagram">+2MamShJR0u3fyv3hwB85wAA</XPD:REF>
-<XPD:ATTR name="#OwnedViews" type="integer">59</XPD:ATTR>
+<XPD:ATTR name="#OwnedViews" type="integer">49</XPD:ATTR>
 <XPD:OBJ name="OwnedViews[0]" type="UMLNodeView" guid="KmbhkAEC+UuIMNH+u4q0kwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
@@ -51403,36 +51398,11 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">RgaymOxJxkCmIE3zODsT7AAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[19]" type="UMLComponentView" guid="J+yDw++7cEm85SOThHqqeAAA">
+<XPD:OBJ name="OwnedViews[19]" type="UMLComponentView" guid="Wb8jdPLx50y5CPNcGjiwdgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">1340</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">388</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">121</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
-<XPD:REF name="Model">PG69zV9/ekKeG4acFeaqigAA</XPD:REF>
-<XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="t2UDcmPTp06TnhPAqdr/YgAA">
-<XPD:OBJ name="NameLabel" type="LabelView" guid="HZ84EZoRLk+nHiVMZcV2UgAA">
-<XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">IUCompras.java</XPD:ATTR>
-</XPD:OBJ>
-<XPD:OBJ name="StereotypeLabel" type="LabelView" guid="5tVDmaPQNUaydaIj9ksaUAAA">
-<XPD:ATTR name="Text" type="string">&lt;&lt;file&gt;&gt;</XPD:ATTR>
-</XPD:OBJ>
-<XPD:OBJ name="PropertyLabel" type="LabelView" guid="FuvjZrm4pUaNopB1k9J2PgAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="ResidentCompartment" type="UMLResidentCompartmentView" guid="7TAL1T67VUCjjQybozh9/gAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:REF name="Model">PG69zV9/ekKeG4acFeaqigAA</XPD:REF>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="OwnedViews[20]" type="UMLComponentView" guid="Wb8jdPLx50y5CPNcGjiwdgAA">
-<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
-<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">1336</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">228</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">1232</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">224</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">102</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:REF name="Model">rK0nzGmlt0W0HDIjqqPdLwAA</XPD:REF>
@@ -51453,36 +51423,11 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">rK0nzGmlt0W0HDIjqqPdLwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[21]" type="UMLComponentView" guid="mUWWSf3lak+twZn0LZqfcgAA">
+<XPD:OBJ name="OwnedViews[20]" type="UMLComponentView" guid="PbMaD9zqEUmQSS+Vo/hy4QAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">1168</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">404</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">149</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
-<XPD:REF name="Model">DHGDcdTYDkOqj3UyDNQxkgAA</XPD:REF>
-<XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="y+v/uu3qMEOphcd8/6VCuQAA">
-<XPD:OBJ name="NameLabel" type="LabelView" guid="Y9yVe6GR10qWCA9Wv9ZftQAA">
-<XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">IUAutenticacion.java</XPD:ATTR>
-</XPD:OBJ>
-<XPD:OBJ name="StereotypeLabel" type="LabelView" guid="ttFeo1kOZUODDGmYoOBGrAAA">
-<XPD:ATTR name="Text" type="string">&lt;&lt;file&gt;&gt;</XPD:ATTR>
-</XPD:OBJ>
-<XPD:OBJ name="PropertyLabel" type="LabelView" guid="IHoAhXMJfkafdIG5ENpJRgAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="ResidentCompartment" type="UMLResidentCompartmentView" guid="XJbiFnWZLkKY9gcrrKrT4QAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:REF name="Model">DHGDcdTYDkOqj3UyDNQxkgAA</XPD:REF>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="OwnedViews[22]" type="UMLComponentView" guid="PbMaD9zqEUmQSS+Vo/hy4QAA">
-<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
-<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">1456</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">244</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">1336</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">276</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">130</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:REF name="Model">slZaCJBoNUKyzcYA2ngBNQAA</XPD:REF>
@@ -51503,11 +51448,11 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">slZaCJBoNUKyzcYA2ngBNQAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[23]" type="UMLComponentView" guid="dxqLpklarUuIzvyLgeYMggAA">
+<XPD:OBJ name="OwnedViews[21]" type="UMLComponentView" guid="dxqLpklarUuIzvyLgeYMggAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">1020</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">412</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">396</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">121</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:REF name="Model">K55XfGkw9kKkQWP0IRspRgAA</XPD:REF>
@@ -51528,11 +51473,11 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">K55XfGkw9kKkQWP0IRspRgAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[24]" type="UMLComponentView" guid="l2ETfCArsk6p63PP1a6rsQAA">
+<XPD:OBJ name="OwnedViews[22]" type="UMLComponentView" guid="l2ETfCArsk6p63PP1a6rsQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">1128</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">312</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">1144</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">324</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">100</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:REF name="Model">W/LZl7rm0k2XJmcsKYEkAgAA</XPD:REF>
@@ -51553,36 +51498,11 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">W/LZl7rm0k2XJmcsKYEkAgAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[25]" type="UMLComponentView" guid="mBmLRm4NHkihTB1DnQZeowAA">
+<XPD:OBJ name="OwnedViews[23]" type="UMLComponentView" guid="u/rtuEfGVk+8UkjIPGIHXAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">1252</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">156</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">140</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
-<XPD:REF name="Model">R7Ax6cEfVUazx3N49SOqcAAA</XPD:REF>
-<XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="weYE5Fq0okWq7kwtmcZu+AAA">
-<XPD:OBJ name="NameLabel" type="LabelView" guid="fBK0ucKtqk+NjF/hFShOpQAA">
-<XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">IUVideojuegos.java</XPD:ATTR>
-</XPD:OBJ>
-<XPD:OBJ name="StereotypeLabel" type="LabelView" guid="Vjp6YwhJH0ehiMcMBLDYYAAA">
-<XPD:ATTR name="Text" type="string">&lt;&lt;file&gt;&gt;</XPD:ATTR>
-</XPD:OBJ>
-<XPD:OBJ name="PropertyLabel" type="LabelView" guid="2xB7pqvX10CCFZBLmPHmQwAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="ResidentCompartment" type="UMLResidentCompartmentView" guid="1+86fq0vSEq1u2zqg4P6xgAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:REF name="Model">R7Ax6cEfVUazx3N49SOqcAAA</XPD:REF>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="OwnedViews[26]" type="UMLComponentView" guid="u/rtuEfGVk+8UkjIPGIHXAAA">
-<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
-<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">1156</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">220</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">1072</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">204</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">101</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:REF name="Model">1n4qnRaoSUy6RTD++gyqzAAA</XPD:REF>
@@ -51603,36 +51523,11 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">1n4qnRaoSUy6RTD++gyqzAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[27]" type="UMLComponentView" guid="i+caqfhgPUe0lQXALgTwUgAA">
+<XPD:OBJ name="OwnedViews[24]" type="UMLComponentView" guid="Ru8WNx422E2lxpCp/r/yJQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">1324</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">280</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">116</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
-<XPD:REF name="Model">oqY1gI3IsECxwrCIx0LznAAA</XPD:REF>
-<XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="jE9Ffx8RJkmBGYuEk2wMBwAA">
-<XPD:OBJ name="NameLabel" type="LabelView" guid="WbxciN9tLkKP7K//hN72DgAA">
-<XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">IUClientes.java</XPD:ATTR>
-</XPD:OBJ>
-<XPD:OBJ name="StereotypeLabel" type="LabelView" guid="TSPSOMBT7Um1I14wjSrXvwAA">
-<XPD:ATTR name="Text" type="string">&lt;&lt;file&gt;&gt;</XPD:ATTR>
-</XPD:OBJ>
-<XPD:OBJ name="PropertyLabel" type="LabelView" guid="dd4i8bAMGEqzdWNJHV34swAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="ResidentCompartment" type="UMLResidentCompartmentView" guid="FS+aV3qMD0G57MJharM3bgAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:REF name="Model">oqY1gI3IsECxwrCIx0LznAAA</XPD:REF>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="OwnedViews[28]" type="UMLComponentView" guid="Ru8WNx422E2lxpCp/r/yJQAA">
-<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
-<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">1072</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">496</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">1024</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">480</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">142</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:REF name="Model">NuCznb7dHUiIYTC8v9v3FgAA</XPD:REF>
@@ -51653,32 +51548,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">NuCznb7dHUiIYTC8v9v3FgAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[29]" type="UMLComponentView" guid="hTS8KWiLFE+hkQtJz63FRQAA">
-<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
-<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">900</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">476</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">155</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
-<XPD:REF name="Model">6QhqJwF4XEGI0scK8LeHBAAA</XPD:REF>
-<XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="cmCVXXvquE6WUk0M11aEDAAA">
-<XPD:OBJ name="NameLabel" type="LabelView" guid="j4S2MawWy0eYEOCFqEAaNAAA">
-<XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">IUDesarrolladora.java</XPD:ATTR>
-</XPD:OBJ>
-<XPD:OBJ name="StereotypeLabel" type="LabelView" guid="AObROAJSQUu2c6CK+3iDzAAA">
-<XPD:ATTR name="Text" type="string">&lt;&lt;file&gt;&gt;</XPD:ATTR>
-</XPD:OBJ>
-<XPD:OBJ name="PropertyLabel" type="LabelView" guid="0vK3IyvKEUGd2a9EL2d7GgAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="ResidentCompartment" type="UMLResidentCompartmentView" guid="5eGHOHfF5UadJtf5hhgImwAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:REF name="Model">6QhqJwF4XEGI0scK8LeHBAAA</XPD:REF>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="OwnedViews[30]" type="UMLDependencyView" guid="uePe+suPh0CY4c7Dg9mmqQAA">
+<XPD:OBJ name="OwnedViews[25]" type="UMLDependencyView" guid="uePe+suPh0CY4c7Dg9mmqQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Points" type="Points">678,506;736,568</XPD:ATTR>
@@ -51704,7 +51574,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">DB4NQY/yhke6uSF03KoSAgAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[31]" type="UMLDependencyView" guid="0tewoAYq50qDHeYbY5HgQAAA">
+<XPD:OBJ name="OwnedViews[26]" type="UMLDependencyView" guid="0tewoAYq50qDHeYbY5HgQAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Points" type="Points">663,506;718,648</XPD:ATTR>
@@ -51730,7 +51600,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">JUGo9ZIgYke56HxMzhug8wAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[32]" type="UMLDependencyView" guid="24Vw2vT120eemxRaZL1aogAA">
+<XPD:OBJ name="OwnedViews[27]" type="UMLDependencyView" guid="24Vw2vT120eemxRaZL1aogAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Points" type="Points">650,506;624,708</XPD:ATTR>
@@ -51756,7 +51626,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">XmJnAR++40CoFBdscT7iBAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[33]" type="UMLDependencyView" guid="TKa2yjlXZ0eZT1nC0yL77gAA">
+<XPD:OBJ name="OwnedViews[28]" type="UMLDependencyView" guid="TKa2yjlXZ0eZT1nC0yL77gAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Points" type="Points">633,506;529,648</XPD:ATTR>
@@ -51782,7 +51652,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">Nw1G8Jx9TkWzg/L3X9Z6oAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[34]" type="UMLDependencyView" guid="CBqD07zKf0qQXHrXSH01GQAA">
+<XPD:OBJ name="OwnedViews[29]" type="UMLDependencyView" guid="CBqD07zKf0qQXHrXSH01GQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Points" type="Points">595,506;462,568</XPD:ATTR>
@@ -51808,7 +51678,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">WOVh7T5ZPUaNecXPTqEFtAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[35]" type="UMLDependencyView" guid="VtJxfkRtQEWw6Y7qXPszXQAA">
+<XPD:OBJ name="OwnedViews[30]" type="UMLDependencyView" guid="VtJxfkRtQEWw6Y7qXPszXQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Points" type="Points">584,484;451,494</XPD:ATTR>
@@ -51834,7 +51704,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">ktx4PGrip0OGnrfkXZrojQAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[36]" type="UMLDependencyView" guid="sxvmLg/DUESvV5fkxWft1gAA">
+<XPD:OBJ name="OwnedViews[31]" type="UMLDependencyView" guid="sxvmLg/DUESvV5fkxWft1gAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Points" type="Points">329,252;285,168</XPD:ATTR>
@@ -51860,7 +51730,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">c0rtWEHONkCWCH0TW0Vo6QAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[37]" type="UMLDependencyView" guid="++eYvfBtkUuM7VLBAdlc/QAA">
+<XPD:OBJ name="OwnedViews[32]" type="UMLDependencyView" guid="++eYvfBtkUuM7VLBAdlc/QAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Points" type="Points">277,252;209,224</XPD:ATTR>
@@ -51886,7 +51756,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">WWh6OyJmP0y7IBddbvTyaQAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[38]" type="UMLDependencyView" guid="qUb6WhXCoUiviIn0j8OuJgAA">
+<XPD:OBJ name="OwnedViews[33]" type="UMLDependencyView" guid="qUb6WhXCoUiviIn0j8OuJgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Points" type="Points">276,278;192,276</XPD:ATTR>
@@ -51912,7 +51782,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">9P/QJYUimUSxZyIBjorDGwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[39]" type="UMLDependencyView" guid="qFcczhgeMUWfo2/qraY4UQAA">
+<XPD:OBJ name="OwnedViews[34]" type="UMLDependencyView" guid="qFcczhgeMUWfo2/qraY4UQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Points" type="Points">276,296;183,320</XPD:ATTR>
@@ -51938,7 +51808,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">tAoQzx/F9Uqubiz7nMVHPwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[40]" type="UMLDependencyView" guid="JqMcZ7VWfUqpTtv9j3lu8QAA">
+<XPD:OBJ name="OwnedViews[35]" type="UMLDependencyView" guid="JqMcZ7VWfUqpTtv9j3lu8QAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Points" type="Points">307,306;226,368</XPD:ATTR>
@@ -51964,7 +51834,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">qRh5PNYXREWrzLqezjB7tAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[41]" type="UMLDependencyView" guid="4BF9gY8f8kemInsWhUtkDQAA">
+<XPD:OBJ name="OwnedViews[36]" type="UMLDependencyView" guid="4BF9gY8f8kemInsWhUtkDQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Points" type="Points">711,284;606,220</XPD:ATTR>
@@ -51990,7 +51860,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">CuEYaYorBESt2jy30NEpIwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[42]" type="UMLDependencyView" guid="vWyClDjUak+BEe7Lx7NvmQAA">
+<XPD:OBJ name="OwnedViews[37]" type="UMLDependencyView" guid="vWyClDjUak+BEe7Lx7NvmQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Points" type="Points">736,284;640,148</XPD:ATTR>
@@ -52016,7 +51886,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">x7XO1QlwvUKG1k1wbonNUwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[43]" type="UMLDependencyView" guid="2JPpzoV+W0O3e4f8fjUOCQAA">
+<XPD:OBJ name="OwnedViews[38]" type="UMLDependencyView" guid="2JPpzoV+W0O3e4f8fjUOCQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Points" type="Points">755,284;754,80</XPD:ATTR>
@@ -52042,7 +51912,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">U9a0NiuvUEKEnwuySDWTJAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[44]" type="UMLDependencyView" guid="0gmhVGHcQ0q6gp+KbxXZSQAA">
+<XPD:OBJ name="OwnedViews[39]" type="UMLDependencyView" guid="0gmhVGHcQ0q6gp+KbxXZSQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Points" type="Points">770,284;850,144</XPD:ATTR>
@@ -52068,7 +51938,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">ucIn7Z9zg0muTHo+Eh0XKQAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[45]" type="UMLDependencyView" guid="glSxslg4W0ybjACjGAfrvgAA">
+<XPD:OBJ name="OwnedViews[40]" type="UMLDependencyView" guid="glSxslg4W0ybjACjGAfrvgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Points" type="Points">796,284;900,216</XPD:ATTR>
@@ -52094,36 +51964,10 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">atFwXB0hckOv5GbvTzmVWAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[46]" type="UMLDependencyView" guid="R6xwl5eUEkeRYD2tqA3a8gAA">
+<XPD:OBJ name="OwnedViews[41]" type="UMLDependencyView" guid="SK8XnWlWyEitWAMxqc+lpAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">851,326;1340,401</XPD:ATTR>
-<XPD:REF name="Model">6MdU0KwEL0m6d+7VhRqEegAA</XPD:REF>
-<XPD:REF name="Head">J+yDw++7cEm85SOThHqqeAAA</XPD:REF>
-<XPD:REF name="Tail">KmbhkAEC+UuIMNH+u4q0kwAA</XPD:REF>
-<XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="8YmxtomtHkmX/PnmJ+oO+gAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
-<XPD:REF name="Model">6MdU0KwEL0m6d+7VhRqEegAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="Mx74lxfZQUSk4FwnuPKjRAAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
-<XPD:REF name="Model">6MdU0KwEL0m6d+7VhRqEegAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="PropertyLabel" type="EdgeLabelView" guid="LeAtrHvMa0aejRvypf0ROAAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">-1,5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
-<XPD:REF name="Model">6MdU0KwEL0m6d+7VhRqEegAA</XPD:REF>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="OwnedViews[47]" type="UMLDependencyView" guid="SK8XnWlWyEitWAMxqc+lpAAA">
-<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
-<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">851,302;1336,255</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">851,299;1232,252</XPD:ATTR>
 <XPD:REF name="Model">hInH7D2PU0WzoJuUNSyqkQAA</XPD:REF>
 <XPD:REF name="Head">Wb8jdPLx50y5CPNcGjiwdgAA</XPD:REF>
 <XPD:REF name="Tail">KmbhkAEC+UuIMNH+u4q0kwAA</XPD:REF>
@@ -52146,10 +51990,10 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">hInH7D2PU0WzoJuUNSyqkQAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[48]" type="UMLDependencyView" guid="rXaRw+/ki0es3rCn8XZsIAAA">
+<XPD:OBJ name="OwnedViews[42]" type="UMLDependencyView" guid="rXaRw+/ki0es3rCn8XZsIAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">851,296;1156,250</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">851,289;1072,238</XPD:ATTR>
 <XPD:REF name="Model">91tQvtenhECPmyYcWRdjhAAA</XPD:REF>
 <XPD:REF name="Head">u/rtuEfGVk+8UkjIPGIHXAAA</XPD:REF>
 <XPD:REF name="Tail">KmbhkAEC+UuIMNH+u4q0kwAA</XPD:REF>
@@ -52172,36 +52016,10 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">91tQvtenhECPmyYcWRdjhAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[49]" type="UMLDependencyView" guid="75TY9aBBOk2duB9y6gpOUQAA">
+<XPD:OBJ name="OwnedViews[43]" type="UMLDependencyView" guid="KARizvHGR0Ku/xLs/FllrgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">851,288;1252,194</XPD:ATTR>
-<XPD:REF name="Model">izjb+GdCp0amFa0KyvR1fAAA</XPD:REF>
-<XPD:REF name="Head">mBmLRm4NHkihTB1DnQZeowAA</XPD:REF>
-<XPD:REF name="Tail">KmbhkAEC+UuIMNH+u4q0kwAA</XPD:REF>
-<XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="MjSpxJqEdEmMEY8rgNGeUwAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
-<XPD:REF name="Model">izjb+GdCp0amFa0KyvR1fAAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="5cH1o/aSpE2BAkGuKRfphQAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
-<XPD:REF name="Model">izjb+GdCp0amFa0KyvR1fAAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="PropertyLabel" type="EdgeLabelView" guid="YvbcgFiikE6trhlUDjATtQAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">-1,5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
-<XPD:REF name="Model">izjb+GdCp0amFa0KyvR1fAAA</XPD:REF>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="OwnedViews[50]" type="UMLDependencyView" guid="KARizvHGR0Ku/xLs/FllrgAA">
-<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
-<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">851,305;1456,270</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">851,309;1336,299</XPD:ATTR>
 <XPD:REF name="Model">uSPoD82YAUCNNd723UiThAAA</XPD:REF>
 <XPD:REF name="Head">PbMaD9zqEUmQSS+Vo/hy4QAA</XPD:REF>
 <XPD:REF name="Tail">KmbhkAEC+UuIMNH+u4q0kwAA</XPD:REF>
@@ -52224,10 +52042,10 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">uSPoD82YAUCNNd723UiThAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[51]" type="UMLDependencyView" guid="Q3I67ZArq0Ss0xylFB11aAAA">
+<XPD:OBJ name="OwnedViews[44]" type="UMLDependencyView" guid="Q3I67ZArq0Ss0xylFB11aAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">851,316;1128,331</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">851,319;1144,342</XPD:ATTR>
 <XPD:REF name="Model">QcytvMrAzkihULo8xbNdAgAA</XPD:REF>
 <XPD:REF name="Head">l2ETfCArsk6p63PP1a6rsQAA</XPD:REF>
 <XPD:REF name="Tail">KmbhkAEC+UuIMNH+u4q0kwAA</XPD:REF>
@@ -52250,62 +52068,10 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">QcytvMrAzkihULo8xbNdAgAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[52]" type="UMLDependencyView" guid="fQ02OPZQN0meTR/ivCwmXwAA">
+<XPD:OBJ name="OwnedViews[45]" type="UMLDependencyView" guid="US8BlZHoWUGIZ7DT982SpgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">851,334;1168,409</XPD:ATTR>
-<XPD:REF name="Model">Sz9LXgtPCUCbgt1LhTtvaAAA</XPD:REF>
-<XPD:REF name="Head">mUWWSf3lak+twZn0LZqfcgAA</XPD:REF>
-<XPD:REF name="Tail">KmbhkAEC+UuIMNH+u4q0kwAA</XPD:REF>
-<XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="Eqf5QVepqE28WIgAowQhFgAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
-<XPD:REF name="Model">Sz9LXgtPCUCbgt1LhTtvaAAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="As/SaVLCC0aL1JsFK0DLNAAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
-<XPD:REF name="Model">Sz9LXgtPCUCbgt1LhTtvaAAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="PropertyLabel" type="EdgeLabelView" guid="sGjxwr25b0Oqv4Lqazm8GQAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">-1,5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
-<XPD:REF name="Model">Sz9LXgtPCUCbgt1LhTtvaAAA</XPD:REF>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="OwnedViews[53]" type="UMLDependencyView" guid="QJcWnL8K9UyzAUza6YtnkwAA">
-<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
-<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">851,310;1324,303</XPD:ATTR>
-<XPD:REF name="Model">gCPU9RV4AU+UZhSvbDD8uQAA</XPD:REF>
-<XPD:REF name="Head">i+caqfhgPUe0lQXALgTwUgAA</XPD:REF>
-<XPD:REF name="Tail">KmbhkAEC+UuIMNH+u4q0kwAA</XPD:REF>
-<XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="LdnKsxm07k6oEoBngX/SbwAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
-<XPD:REF name="Model">gCPU9RV4AU+UZhSvbDD8uQAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="zpXl3uvhqUeRwqexBF/VtAAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
-<XPD:REF name="Model">gCPU9RV4AU+UZhSvbDD8uQAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="PropertyLabel" type="EdgeLabelView" guid="8iDlUwHVJke6BhGFw1o21wAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">-1,5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
-<XPD:REF name="Model">gCPU9RV4AU+UZhSvbDD8uQAA</XPD:REF>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="OwnedViews[54]" type="UMLDependencyView" guid="US8BlZHoWUGIZ7DT982SpgAA">
-<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
-<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">805,338;1101,496</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">803,338;1055,480</XPD:ATTR>
 <XPD:REF name="Model">QlUnw2FmgkuCGeHNmO/IjAAA</XPD:REF>
 <XPD:REF name="Head">Ru8WNx422E2lxpCp/r/yJQAA</XPD:REF>
 <XPD:REF name="Tail">KmbhkAEC+UuIMNH+u4q0kwAA</XPD:REF>
@@ -52328,10 +52094,10 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">QlUnw2FmgkuCGeHNmO/IjAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[55]" type="UMLDependencyView" guid="e1Ul2yE6kkOXYewMogJi7QAA">
+<XPD:OBJ name="OwnedViews[46]" type="UMLDependencyView" guid="e1Ul2yE6kkOXYewMogJi7QAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">826,338;1022,412</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">837,338;1020,398</XPD:ATTR>
 <XPD:REF name="Model">cdoz3xhihUmm91lRtVZ85wAA</XPD:REF>
 <XPD:REF name="Head">dxqLpklarUuIzvyLgeYMggAA</XPD:REF>
 <XPD:REF name="Tail">KmbhkAEC+UuIMNH+u4q0kwAA</XPD:REF>
@@ -52354,33 +52120,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">cdoz3xhihUmm91lRtVZ85wAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[56]" type="UMLDependencyView" guid="6RWKbJNDn0C5db+MmiXxdwAA">
-<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
-<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">787,338;951,476</XPD:ATTR>
-<XPD:REF name="Model">/4/MQ9XP6Ei3kckT1fie9wAA</XPD:REF>
-<XPD:REF name="Head">hTS8KWiLFE+hkQtJz63FRQAA</XPD:REF>
-<XPD:REF name="Tail">KmbhkAEC+UuIMNH+u4q0kwAA</XPD:REF>
-<XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="TuhUIhC3pUiM9vzOv2mk2AAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
-<XPD:REF name="Model">/4/MQ9XP6Ei3kckT1fie9wAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="P/KOskaZO0aJexzqncJfowAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">30</XPD:ATTR>
-<XPD:REF name="Model">/4/MQ9XP6Ei3kckT1fie9wAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="PropertyLabel" type="EdgeLabelView" guid="Jn1RwxaTyk2W++1/6s6lEAAA">
-<XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">-1,5707963267949</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">15</XPD:ATTR>
-<XPD:REF name="Model">/4/MQ9XP6Ei3kckT1fie9wAA</XPD:REF>
-</XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="OwnedViews[57]" type="UMLAssociationView" guid="Y9A/NDnJMUqbfoLyFzbKRwAA">
+<XPD:OBJ name="OwnedViews[47]" type="UMLAssociationView" guid="Y9A/NDnJMUqbfoLyFzbKRwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Points" type="Points">411,284;660,304</XPD:ATTR>
@@ -52464,7 +52204,7 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Model">C4WN7HGqikSlihJBE1DRkQAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[58]" type="UMLAssociationView" guid="DUtniEWajkKfgL6xAkvm/AAA">
+<XPD:OBJ name="OwnedViews[48]" type="UMLAssociationView" guid="DUtniEWajkKfgL6xAkvm/AAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Points" type="Points">739,338;669,452</XPD:ATTR>
@@ -52779,11 +52519,6 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Namespace">OyP3nsN4JEeSlEgE6FPmhwAA</XPD:REF>
 <XPD:REF name="Client">VBTA6+xVqUecCruCTTgfiAAA</XPD:REF>
 <XPD:REF name="Supplier">PG69zV9/ekKeG4acFeaqigAA</XPD:REF>
-<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
-<XPD:REF name="Views[0]">R6xwl5eUEkeRYD2tqA3a8gAA</XPD:REF>
-<XPD:REF name="Views[1]">8YmxtomtHkmX/PnmJ+oO+gAA</XPD:REF>
-<XPD:REF name="Views[2]">Mx74lxfZQUSk4FwnuPKjRAAA</XPD:REF>
-<XPD:REF name="Views[3]">LeAtrHvMa0aejRvypf0ROAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[20]" type="UMLDependency" guid="hInH7D2PU0WzoJuUNSyqkQAA">
 <XPD:REF name="Namespace">OyP3nsN4JEeSlEgE6FPmhwAA</XPD:REF>
@@ -52809,11 +52544,6 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Namespace">OyP3nsN4JEeSlEgE6FPmhwAA</XPD:REF>
 <XPD:REF name="Client">VBTA6+xVqUecCruCTTgfiAAA</XPD:REF>
 <XPD:REF name="Supplier">R7Ax6cEfVUazx3N49SOqcAAA</XPD:REF>
-<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
-<XPD:REF name="Views[0]">75TY9aBBOk2duB9y6gpOUQAA</XPD:REF>
-<XPD:REF name="Views[1]">MjSpxJqEdEmMEY8rgNGeUwAA</XPD:REF>
-<XPD:REF name="Views[2]">5cH1o/aSpE2BAkGuKRfphQAA</XPD:REF>
-<XPD:REF name="Views[3]">YvbcgFiikE6trhlUDjATtQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[23]" type="UMLDependency" guid="uSPoD82YAUCNNd723UiThAAA">
 <XPD:REF name="Namespace">OyP3nsN4JEeSlEgE6FPmhwAA</XPD:REF>
@@ -52839,21 +52569,11 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Namespace">OyP3nsN4JEeSlEgE6FPmhwAA</XPD:REF>
 <XPD:REF name="Client">VBTA6+xVqUecCruCTTgfiAAA</XPD:REF>
 <XPD:REF name="Supplier">DHGDcdTYDkOqj3UyDNQxkgAA</XPD:REF>
-<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
-<XPD:REF name="Views[0]">fQ02OPZQN0meTR/ivCwmXwAA</XPD:REF>
-<XPD:REF name="Views[1]">Eqf5QVepqE28WIgAowQhFgAA</XPD:REF>
-<XPD:REF name="Views[2]">As/SaVLCC0aL1JsFK0DLNAAA</XPD:REF>
-<XPD:REF name="Views[3]">sGjxwr25b0Oqv4Lqazm8GQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[26]" type="UMLDependency" guid="gCPU9RV4AU+UZhSvbDD8uQAA">
 <XPD:REF name="Namespace">OyP3nsN4JEeSlEgE6FPmhwAA</XPD:REF>
 <XPD:REF name="Client">VBTA6+xVqUecCruCTTgfiAAA</XPD:REF>
 <XPD:REF name="Supplier">oqY1gI3IsECxwrCIx0LznAAA</XPD:REF>
-<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
-<XPD:REF name="Views[0]">QJcWnL8K9UyzAUza6YtnkwAA</XPD:REF>
-<XPD:REF name="Views[1]">LdnKsxm07k6oEoBngX/SbwAA</XPD:REF>
-<XPD:REF name="Views[2]">zpXl3uvhqUeRwqexBF/VtAAA</XPD:REF>
-<XPD:REF name="Views[3]">8iDlUwHVJke6BhGFw1o21wAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[27]" type="UMLDependency" guid="QlUnw2FmgkuCGeHNmO/IjAAA">
 <XPD:REF name="Namespace">OyP3nsN4JEeSlEgE6FPmhwAA</XPD:REF>
@@ -52879,11 +52599,6 @@ mensaje de error por pantalla y el CU finaliza
 <XPD:REF name="Namespace">OyP3nsN4JEeSlEgE6FPmhwAA</XPD:REF>
 <XPD:REF name="Client">VBTA6+xVqUecCruCTTgfiAAA</XPD:REF>
 <XPD:REF name="Supplier">6QhqJwF4XEGI0scK8LeHBAAA</XPD:REF>
-<XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
-<XPD:REF name="Views[0]">6RWKbJNDn0C5db+MmiXxdwAA</XPD:REF>
-<XPD:REF name="Views[1]">TuhUIhC3pUiM9vzOv2mk2AAA</XPD:REF>
-<XPD:REF name="Views[2]">P/KOskaZO0aJexzqncJfowAA</XPD:REF>
-<XPD:REF name="Views[3]">Jn1RwxaTyk2W++1/6s6lEAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[30]" type="UMLAssociation" guid="LRz2NAm1cESPwGkz5zkbzgAA">
 <XPD:ATTR name="Name" type="string">internet</XPD:ATTR>
